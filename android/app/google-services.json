@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389741950160",
+    "project_id": "tuhinge-d6dc4",
+    "storage_bucket": "tuhinge-d6dc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389741950160:android:d91fbd9e100b7da3769ad5",
+        "android_client_info": {
+          "package_name": "com.example.tuhinge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZA6ltInWTX5R-9gmSCZJ0tIV63Ur4zN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
